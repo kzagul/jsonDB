@@ -72,7 +72,7 @@
     {
         "id": 3,
         "productStatus": [""],
-        "photos": ["https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg", ],
+        "photos": ["https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg"],
         "chips": [{"value": "-30%", "active": true}],
         "className": 32,
         "title": "Лена 32 класса Quick Step «Дуб теплый натуральный премиум» dgfnsed;rjgnwerkpjgnf",
@@ -113,7 +113,7 @@
     {
         "id": 4,
         "productStatus": [""],
-        "photos": ["upload/dev/img/main/product-card/product.png","upload/dev/img/main/product-card/product-2.png","upload/dev/img/main/product-card/product-3.png","https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg" ],
+        "photos": ["upload/dev/img/main/product-card/product.png","upload/dev/img/main/product-card/product-2.png","upload/dev/img/main/product-card/product-3.png","https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg"],
         "chips": [{"value": "-30%", "active": true}],
         "className": 32,
         "title": "Ламинат 33 класса Quick Step «Дуб теплый натуральный премиум» dgfnsed;rjgnwerkpjgnf",
@@ -151,7 +151,7 @@
     {
         "id": 5,
         "productStatus": [""],
-        "photos": ["https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg", ],
+        "photos": ["https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg"],
         "chips": [{"value": "-30%", "active": true}],
         "className": 32,
         "title": "Ламинат 32 класса Quick Step «Дуб теплый натуральный премиум» dgfnsed;rjgnwerkpjgnf",
