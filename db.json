@@ -4,7 +4,7 @@
         "id": 1,
         "productStatus": ["new", "popular"],
         "photos": ["upload/dev/img/main/product-card/product.png","upload/dev/img/main/product-card/product-2.png","upload/dev/img/main/product-card/product-3.png","https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0c/bb/a3/97/predator-ride-in-the.jpg" ],
-        "chips": [{'value': '-30%', 'active': true}, {'value': 'скидка', 'active': false}, {'value': 'Есть видео', 'active': false},],
+        "chips": [{"value": "-30%", "active": true}, {'value': 'скидка', 'active': false}, {'value': 'Есть видео', 'active': false},],
         "className": 32,
         "title": "Ламинат 32 класса Quick Step «Дуб теплый натуральный премиум» dgfnsed;rjgnwerkpjgnf",
         "prices": [
