@@ -1,0 +1,37 @@
+[
+{
+"id": 2,
+"photos": null,
+"classname": "25",
+"title": "Паркет",
+"productstatus": [
+"new"
+],
+"chips": null,
+"fefrf": null
+},
+{
+"id": 3,
+"photos": null,
+"classname": "19",
+"title": "Теплый пол",
+"productstatus": [
+"new",
+"popular"
+],
+"chips": null,
+"fefrf": null
+},
+{
+"id": 1,
+"photos": null,
+"classname": "32",
+"title": "Ламинат",
+"productstatus": [
+"new",
+"popular"
+],
+"chips": null,
+"fefrf": "(dcdc,t)"
+}
+]
