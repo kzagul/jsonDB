@@ -1,5 +1,5 @@
 {
-  "ProductCards": [
+  "posts": [
    {
         "id": 1,
         "productStatus": ["new", "popular"],
